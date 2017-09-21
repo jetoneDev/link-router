@@ -1,1 +1,3 @@
-## react-link-router
+## link-router
+- usage
+  > npm i link-router --save
